@@ -1,2 +1,2 @@
 # JavaScript-InterviewQuestions
-Output based interview questions on JavaScript
+Output based interview questions on JavaScript.
